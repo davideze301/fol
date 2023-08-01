@@ -1,0 +1,23 @@
+.icon1 i{
+    /* justify-content: space-evenly; */
+    font-size: 20px;
+    border: none;
+    margin: 2px;
+    padding: 10px;
+    border-radius: 55px;
+    background-color: violet;
+
+    /* margin: 10px; */
+}
+.icon1 input{
+    padding: 13px;
+    margin: 10px;
+    border-radius: 20px;
+    font-size: 20px;
+    border: none;
+    outline: none;
+    box-shadow: 2px 4px 2px rgba(0, 0, 0, 0.2);
+}
+input::placeholder{
+    font-size: 20px;
+}
